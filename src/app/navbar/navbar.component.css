@@ -1,0 +1,20 @@
+.navbar{
+  background-color: #2C3E50;
+  height: 110px;
+}
+.logo{
+  font-size: 30px;
+  padding-left: 130px;
+}
+ul{
+  font-size: 18px;
+  padding-left: 400px !important;
+  gap: 10px;
+}
+ul a{
+  color: #fff !important;
+}
+.active{
+  background-color: #1ABC9C;
+  border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+footer{
+  background-color: #2C3E50;
+  height: 250px;
+}
+.icons span{
+  border-radius: 50%;
+  padding: 9px;
+  font-size: 15px;
+  border: 1px solid #fff;
+}
+.mini-content{
+  background-color: #1A252F;
+  height: 80px;
+  padding-top: 30px;
+}

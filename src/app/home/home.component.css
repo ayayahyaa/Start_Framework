@@ -1,0 +1,29 @@
+section{
+  padding: 100px 0;
+  background-color: #1ABC9C;
+}
+section .img{
+  width: 250px;
+}
+.star::before{
+  content: "";
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  background-color: #fff;
+  bottom: 10px;
+  right: 0;
+  left:40px;
+  top: 15px;
+}
+.star::after{
+  content: "";
+  position: absolute;
+  width: 90px;
+  height: 4px;
+  background-color: #fff;
+  bottom: 10px;
+  right: 100px;
+  left:-100px;
+  top: 15px;
+}
